@@ -1,0 +1,194 @@
+header{
+    display: flex;
+    flex-direction: column;
+    background-color:
+    #020C1E;
+    color: white;
+}
+#menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+ 
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin: 20px;
+}
+button{
+    margin: 10px;
+}
+#header2{
+    padding: 20px;
+    text-align: center;
+}
+#header3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    width: 400px;
+}
+#terceiroSection{
+    display: flex;
+    justify-content: center;
+}
+#alinhamento1{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+iframe{
+    box-shadow: 10px 10px 5px #98c3cd;
+}
+main{
+    background-color: #E8F2F2;
+    padding: 100px;
+}
+#alinhamento2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+   
+}
+#div1{
+ 
+    width: 350px;
+}
+#lorem{
+    color:#486284 ;
+    font-size: 30px;
+}
+#div2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 60px;
+}
+#alinhamento3{
+    text-align: center;
+}
+#textos{
+    width: 300px;
+   
+}
+#imagens{
+    width: 80px;
+    background-color: #486284;
+    border-radius: 10px;
+    padding: 10px;
+   
+}
+#conheca{
+    font-size: 30px;
+    color:#486284 ;
+    margin: 20px;
+}
+#alinhamento4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#segundaParte{
+    display: flex;
+    gap: 100px;
+}
+ 
+#div3{
+    display: flex;
+    gap: 200px;
+    margin: 30px;
+}
+#equipes{
+    background-color: #CED7E4;
+    width: 200px;
+    box-shadow: 10px 10px 5px #98c3cd;
+    color: white;
+}
+#icone{
+    width: 60px;
+   
+}
+#nome{
+    display: flex;
+    justify-content: center;
+}
+#alinhamento5{
+margin: 20px;
+}
+#alinhamento6{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+#alinhamento7{
+   display: flex;
+   justify-content: space-around;
+   width: 1600px;
+   margin: 60px;
+}
+#projeto{
+    width: 190px;
+}
+#projeto2{
+    font-size: 40px;
+}
+#projeto3{
+    font-size: 30px;
+}
+#div4{
+   
+    height: 400px;
+    text-align: center;
+    width: 500px;
+}
+#texto{
+    font-size: 20px;
+    padding: 20px;
+}
+#div5{
+    display: flex;
+    font-size: 10px;
+}
+#funcoes{
+    margin: 20px;
+    background-color: #020C1E;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+#funcoes1{  
+    width: 300px;
+    background-color: #020C1E;
+    text-align: center;
+    align-content: center;
+    border-radius: 10px;
+    color: white;
+}
+#mobile{
+   
+}
+#link{
+    display: flex;
+    justify-content: flex-start;
+    background-color: grey;
+    width: 110px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#linkee{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+#botao1{
+    color: white;
+    background-color: transparent;
+    border: transparent;
+    margin: 1px;
+    cursor: pointer;
+}
+ 
